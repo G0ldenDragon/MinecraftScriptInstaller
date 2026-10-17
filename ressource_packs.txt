@@ -1,0 +1,4 @@
+https://cdn.modrinth.com/data/FsygnwFm/versions/vfRy9fBD/VisibleOres26.1.zip?mr_download_reason=standalone&mr_game_version=26.1.2
+https://cdn.modrinth.com/data/yfDziwn1/versions/qOoVT7kG/SodiumTranslations.zip?mr_download_reason=standalone
+https://cdn.modrinth.com/data/6udpuGCH/versions/scd0ojNG/EvenBetterEnchants_v3_1.21.5%2B.zip?mr_download_reason=standalone
+https://cdn.modrinth.com/data/OhzX8kDf/versions/laDCvp3K/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip?mr_download_reason=standalone

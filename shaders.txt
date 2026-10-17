@@ -1,0 +1,4 @@
+https://cdn.modrinth.com/data/z8EjLYqN/versions/J4RlzpKF/Sildur%27s%20Vibrant%20Shaders%20v2.02%20Extreme.zip?mr_download_reason=standalone&mr_loader=iris
+https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip?mr_download_reason=standalone&mr_loader=iris
+https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip?mr_download_reason=standalone&mr_loader=iris
+https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip?mr_download_reason=standalone&mr_game_version=26.1.2
